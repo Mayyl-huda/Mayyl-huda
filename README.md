@@ -6,8 +6,6 @@
 <h1 align="center">Hi there, I'm Ayesha Tariq 👋</h1>
 <h3 align="center">🌱 Python Learner | 💻 Automation Explorer | 🎯 Consistently Improving</h3>
 
----
------------------------------------------------------------------------------------------------
  About Me
 
 ✌️ Passionate about building automation tools and learning how the web works  
@@ -16,7 +14,7 @@
 📧 Reach out anytime  
 💬 Let’s collaborate, learn, or create something meaningful together! 🚀
 
----
+
 
 ⚒️ Tools I’m Learning & Using
 <p align="center">
@@ -28,7 +26,7 @@
   <img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-black?style=flat&logo=linux" />
 </p>
------------------------------------------------------------------------------------------------
+
 
 🧩 Projects I’m Working On
 
@@ -36,7 +34,7 @@
 - 🔗 API Fetcher: Automates login + data retrieval from authenticated APIs  
 - 📹 YouTube Auto Scraper: Scrolls and extracts video titles using DrissionPage
 
----
+
 
 📊 GitHub Stats
 
@@ -45,7 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayyl-huda&layout=compact&theme=radical" width="300" />
 </p>
 
----
+
 
 
 <p align="center">
