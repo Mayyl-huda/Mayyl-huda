@@ -1,7 +1,12 @@
-Hi there,👋
-I am Ayesha Tariq 
-Python Learner | 💻 Automation Explorer | 🎯 Consistently Improving
+<!-- 🖥️ Top Banner or GIF (optional) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+</p>
 
+<h1 align="center">Hi there, I'm Ayesha Tariq 👋</h1>
+<h3 align="center">🌱 Python Learner | 💻 Automation Explorer | 🎯 Consistently Improving</h3>
+
+---
 -----------------------------------------------------------------------------------------------
  About Me
 
@@ -42,7 +47,9 @@ Python Learner | 💻 Automation Explorer | 🎯 Consistently Improving
 
 ---
 
-  🌸 Thanks for visiting! Let’s keep building, learning, and improving 🌱
 
+<p align="center">
+  🌸 Thanks for visiting! Let’s keep building, learning, and improving 🌱
+</p>
 
 
