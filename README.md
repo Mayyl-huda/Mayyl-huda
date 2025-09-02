@@ -1,4 +1,4 @@
-# Hi there, I'm Ayesha Tariq!  
+# 👩‍💻 Hi there, I'm Ayesha Tariq!  
 
 ![Coding Girl](https://media.giphy.com/media/NG7SdzS5BtYKY0rtib/giphy.gif)  
 
@@ -18,11 +18,11 @@
 
 ## ⚒️ Tools & Technologies  
 
-- **Languages & Frameworks**: Python, FastAPI
+- **Languages & Frameworks**: Python, FastAPI, Flask  
 - **Automation**: DrissionPage, Selenium, BeautifulSoup, Requests  
 - **Databases**: SQLite, PostgreSQL, MongoDB  
 - **DevOps / Others**: Git, GitHub, Docker, Redis, Linux CLI  
-- **APIs & Data**: REST APIs, JSON, Web Scraping, 
+- **APIs & Data**: REST APIs, JSON, Web Scraping, Pandas  
 
 ---
 
@@ -42,4 +42,3 @@
 ---
 
 🌸 **Thanks for visiting!** Let’s keep building, learning, and improving 🌱  
-
