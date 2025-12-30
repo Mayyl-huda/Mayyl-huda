@@ -15,7 +15,7 @@
 - 🧠 Focused on **Python, APIs, and browser automation** with **DrissionPage**  
 - 📌 Love experimenting with code to solve **real-world problems**  
 - 💬 Open to collaborations, brainstorming, and building cool projects 🚀  
-- 📧 Reach me anytime: **your email here**
+  
 
 ---
 
