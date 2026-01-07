@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Girl Coding" width="500">
+  <img src="https://media.giphy.com/media/3o7TKP8V0Y7e2z62Nu/giphy.gif" alt="Girl Coding" width="500">
 </p>
 
 <h1 align="center">Hi, I'm Ayesh Tariq 👋</h1>
@@ -9,19 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Wakatime-__?style=flat-square&color=blue" alt="wakatime"/>
-  <img src="https://img.shields.io/badge/Visitors-__?style=flat-square&color=green" alt="Visitors"/>
-</p>
-
-<p align="center">
   I'm passionate about building Python automation tools, optimizing SQL databases, and exploring real-world data solutions.
-</p>
-
-<p align="center">
-  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Website-FF0000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://dev.to/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://twitter.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 ---
@@ -29,7 +18,6 @@
 ## About Me
 - 💻 Building Python automation tools & working with SQL databases.
 - ❤️ Focused on clean code, performance, and learning modern tech.
-- 📫 Reach me at: [ayesh.tariq.dev@gmail.com](mailto:ayesh.tariq.dev@gmail.com)
 - 🚀 Currently working with **Python, FastAPI, SQL, and automation projects**.
 
 ---
@@ -63,4 +51,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesh-tariq&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
 
