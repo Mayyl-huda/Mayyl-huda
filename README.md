@@ -1,44 +1,33 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+I'm+Ayesha+Tariq+👋;Python+Automation+Developer;Backend+%7C+APIs+%7C+Web+Scraping;Building+Real+World+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+I'm+Ayesha+Tariq+👋;Python+Backend+Developer;Automation+%7C+APIs+%7C+Web+Scraping;Building+Real+World+Projects+🚀" />
 </p>
 
 <!-- Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Girl coding on laptop"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding on laptop"/>
 </p>
 
 <h3 align="center">
-💻 Python Developer | ⚙️ Automation Enthusiast | 📊 Future Data Engineer
+💻 Python Backend Developer | ⚙️ Automation Builder | 🔗 API Enthusiast
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🔍 I build **real-world automation systems**
-- 🧠 Currently mastering **APIs, FastAPI & backend architecture**
-- 🕸️ Strong in **browser automation (DrissionPage, Selenium)**
-- 🗄️ Working with **SQL, databases & data workflows**
-- 🎯 Goal: Become a high-level **Backend & Data Engineer**
+- 🔍 I build real-world automation systems  
+- 🧠 Focused on backend architecture & scalable APIs  
+- 🕸️ Strong in browser automation (DrissionPage, Selenium)  
+- 🗄️ Experienced with SQL & database-driven workflows  
+- 🎯 Continuously improving through hands-on projects  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🐍 Backend & Automation
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,selenium" />
-</p>
-
-### 🗄 Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis" />
-</p>
-
-### ⚙️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,selenium,postgres,mongodb,sqlite,redis,git,github,docker,linux,pandas" />
 </p>
 
 ---
@@ -46,15 +35,13 @@
 ## 🔥 Featured Projects
 
 ### 🛒 eBay Monitoring System
-> Scrapes listings → Tracks price changes → Sends Discord alerts  
-> Built using: `Requests + DrissionPage + CSV + Discord Webhooks`
+Scrapes listings → Tracks price changes → Sends Discord alerts  
 
 ### 🔐 Authenticated API Fetcher
-> Automates login & extracts protected data from APIs  
-> Structured with modular OOP design
+Automates login & extracts protected API data using modular OOP design  
 
 ### 📺 YouTube Scroll Scraper
-> Automates scrolling & extracts dynamic content using headless browser automation
+Automates scrolling & extracts dynamic content using browser automation  
 
 ---
 
@@ -71,17 +58,9 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced FastAPI Architecture
-- PySpark & Data Engineering Concepts
-- Scalable System Design
-- Dockerized Production Deployments
-
----
-
 <p align="center">
 ✨ Consistency > Motivation  
 🚀 Building. Breaking. Fixing. Improving.
 </p>
+
 
