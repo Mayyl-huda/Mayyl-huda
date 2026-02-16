@@ -30,14 +30,10 @@
 
 ## 🔥 Featured Projects
 
-### 🛒 eBay Monitoring System
-- Scrapes listings → Tracks price changes → Sends Discord alerts  
 
-### 🔐 Authenticated API Fetcher
+- Scrapes eBay listings → Tracks price changes → Sends Discord alerts  
 - Automates login & extracts protected API data using modular OOP design  
-
-### 📺 YouTube Scroll Scraper
-- Automates scrolling & extracts dynamic content using browser automation  
+- Automates scrolling & extracts dynamic content from YouTube  
 
 ---
 
